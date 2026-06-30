@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou Haroldo Pina 👋
 
-<!--
-**hpina/hpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gerente de Desenvolvimento de Software na Icatu Seguros.
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia, IA, desenvolvimento mobile e produtos digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente
+
+📱 Desenvolvendo o app Jogo do Flu para Android e iOS com Capacitor 8
+
+🤖 Explorando agentes de IA com n8n e OpenAI
+
+☁️ Trabalhando com Azure, Kubernetes e Observabilidade
+
+## Tecnologias
+
+TypeScript
+Angular
+Capacitor
+Node.js
+.NET
+Azure
+Kubernetes
+Docker
+
+## Projetos
+
+⚽ Jogo do Flu
+
+📅 Gestor de Férias
+
+🎮 Game Boy Arcade
+
+## Contato
+
+LinkedIn
+
+GitHub
