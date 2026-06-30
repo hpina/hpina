@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Haroldo Pina Banner" />
+</p>
 # Hi there, I'm Haroldo Pina 👋
 
 ### Engineering Manager | Mobile Developer | AI Enthusiast
