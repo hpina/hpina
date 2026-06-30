@@ -149,3 +149,11 @@ https://jogodoflu.com
 
 📫 GitHub  
 https://github.com/hpina
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hpina&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hpina&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hpina&layout=compact&theme=transparent)
